@@ -2,7 +2,7 @@
   "name": "programming-practice",
   "version": "1.0.0",
   "description": "Projeto pra treinar programação com cálculos interessantes.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "next dev"
   },
